@@ -2,13 +2,12 @@
   "name": "nodesource-nodejs-node",
   "description": "Nodejs image based on nodesource - node - latest",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "keywords": [],
   "author": "Damian Brosnahan",
   "license": "ISC",
   "dependencies": {
-    "pg": "^4.4.1",
-    "retry": "^0.7.0"
+    "node-static": "0.7.9"
   },
   "repository": {
     "type": "git",
