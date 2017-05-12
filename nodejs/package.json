@@ -7,9 +7,11 @@
   "author": "Damian Brosnahan",
   "license": "ISC",
   "dependencies": {
+    "pg": "^4.4.1",
+    "retry": "^0.7.0"
   },
   "repository": {
-  "type": "git",
-  "url": "git://github.com/dbrosy/nodesource-nodejs-node.git"
+    "type": "git",
+    "url": "git://github.com/dbrosy/nodesource-nodejs-node.git"
   }
 }
