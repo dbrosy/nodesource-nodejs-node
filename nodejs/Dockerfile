@@ -7,4 +7,4 @@ ADD app.js app.js
 ADD index.html index.html
 
 
-CMD ["node","server.js"]
+CMD ["node","app.js"]
