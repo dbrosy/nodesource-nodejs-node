@@ -7,5 +7,9 @@
   "author": "Damian Brosnahan",
   "license": "ISC",
   "dependencies": {
+  },
+  "repository": {
+  "type": "git",
+  "url": "git://github.com/dbrosy/nodesource-nodejs-node/repository.git"
   }
 }
