@@ -10,6 +10,6 @@
   },
   "repository": {
   "type": "git",
-  "url": "git://github.com/dbrosy/nodesource-nodejs-node/repository.git"
+  "url": "git://github.com/dbrosy/nodesource-nodejs-node.git"
   }
 }
